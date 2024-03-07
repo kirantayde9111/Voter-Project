@@ -1,0 +1,23 @@
+export const PRODUCT_REQUEST= "PRODUCT_REQUEST";
+export const PRODUCT_FAILURE= "PRODUCT_FAILURE";
+//post
+export const ADD_PRODUCT_SUCCESS= "ADD_PRODUCT_SUCCESS";
+export const ADD_Total_SUCCESS= "ADD_Total_SUCCESS";
+export const ADD_KothrudTotal_SUCCESS= "ADD_KothrudTotal_SUCCESS";
+export const ADD_KasabaTotal_SUCCESS= "ADD_KasabaTotal_SUCCESS";
+export const ADD_WarjeTotal_SUCCESS= "ADD_WarjeTotal_SUCCESS";
+
+
+
+export const API_SUCCESS= "API_SUCCESS";
+export const EDIT_SUCCESS= "EDIT_SUCCESS";
+export const EVENT_SUCCESS= "EVENT_SUCCESS";
+export const ADDEVENT_SUCCESS= "ADDEVENT_SUCCESS";
+export const EDITEVENT_SUCCESS= "EDITEVENT_SUCCESS";
+
+
+export const ADDUSER_SUCCESS= "ADDUSER_SUCCESS";
+export const GETUSER_SUCCESS= "GETUSER_SUCCESS";
+export const EDITUSER_SUCCESS= "EDITUSER_SUCCESS";
+
+export const GETACTIVEUSER_SUCCESS= "GETACTIVEUSER_SUCCESS";
